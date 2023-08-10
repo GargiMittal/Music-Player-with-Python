@@ -18,13 +18,14 @@ This is a simple music player application built using the Tkinter library for th
 
 ## Usage
 
-1. Install the required libraries if you haven't already:
-
+1. Install the required libraries if you haven't already
+```bash
 pip install pygame
+```
 
-3. Clone or download this repository to your local machine.
+2. Clone or download this repository to your local machine.
 
-4. Run the `MusicPlayer.py` script:
+3. Run the `MusicPlayer.py` script:
 python MusicPlayer.py
 
 ---
