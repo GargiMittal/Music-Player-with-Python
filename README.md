@@ -2,6 +2,9 @@
 
 This is a simple music player application built using the Tkinter library for the graphical user interface and the Pygame library for audio playback. The application allows users to select and play audio files from their local storage.
 
+![Local Image](sangeet.png)
+
+
 ## Features
 
 - Browse and select audio files using the file dialog.
